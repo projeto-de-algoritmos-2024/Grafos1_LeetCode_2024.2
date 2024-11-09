@@ -13,17 +13,16 @@
 
 Este projeto consiste na resolução de questões da plataforma LeetCode variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
-| Problema | Descrição | Nível de Dificuldade | Link |
-| -------- | --------- | -------------------- | ---- |
-|          |           |                      |      |
-|          |           |                      |      |
-
+| Problema | Nome                                                                                                                              | Nível de Dificuldade |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM) | Médio                |
+|          |                                                                                                                                   |                      |
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Linguagem Utilizada
-
+- Python
 
 
 

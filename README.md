@@ -18,7 +18,7 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)               | Médio                |
 | 1584     | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph) | Médio                |
-|          |                                                                                                                                              |                       |
+| 310      | [Minimum Height Tree](https://leetcode.com/problems/minimum-height-trees/)                                                                     | Médio                |
 
 ## Screenshots
 

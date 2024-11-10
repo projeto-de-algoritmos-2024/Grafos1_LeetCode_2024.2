@@ -4,33 +4,34 @@
 **Conteúdo da Disciplina**: Grafos-1
 
 ## Alunos
-| Matrícula | Aluno                      |
-| --------- | -------------------------- |
-| 202016963 | Mateus Vinicius Vieira     |
-| 211039680 | Pedro Lucas Dourado Santos |
 
-## Sobre 
+| Matrícula | Aluno                      |
+| ---------- | -------------------------- |
+| 202016963  | Mateus Vinicius Vieira     |
+| 211039680  | Pedro Lucas Dourado Santos |
+
+## Sobre
 
 Este projeto consiste na resolução de questões da plataforma LeetCode variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
-| Problema | Nome                                                                                                                              | Nível de Dificuldade |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM) | Médio                |
-|          |                                                                                                                                   |                      |
+| Problema | Nome                                                                                                                                         | Nível de Dificuldade |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)               | Médio                |
+| 1584     | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph) | Médio                |
+|          |                                                                                                                                              |                       |
 
 ## Screenshots
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Linguagem Utilizada
+
 - Python
 
+## Uso
 
-
-## Uso 
 Entrar na plataforma [LeetCode](https://leetcode.com/), procurar pelo número do exercício, colar na aba code e clicar em Run
 
-## Outros 
+## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-

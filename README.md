@@ -25,7 +25,7 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 
 [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)
 ![](img/2924.png)
-[Find a Safe Walk Through a Grid](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/?envType=problem-list-v2&envId=graph)
+[Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=problem-list-v2&envId=graph)
 ![](img/3268.jpg)
 
 ## Linguagem Utilizada

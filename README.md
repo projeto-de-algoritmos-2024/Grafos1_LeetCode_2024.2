@@ -14,12 +14,12 @@
 
 Este projeto consiste na resolução de questões da plataforma LeetCode variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
-| Problema | Nome                                                                                                                                                    | Nível de Dificuldade |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)                          | Médio                |
-| 1337     | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph)              | Difícil              |
-| 2924     | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)                                        | Médio                |
-| 3286     | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/?envType=problem-list-v2&envId=graph) | Médio                |
+| Problema | Nome                                                                                                                                           | Nível de Dificuldade |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)                 | Médio                |
+| 1337     | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph)     | Difícil              |
+| 2924     | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)                               | Médio                |
+| 3286     | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=problem-list-v2&envId=graph) | Médio                |
 
 ## Screenshots
 
@@ -27,6 +27,7 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 ![](img/2924.png)
 [Find a Safe Walk Through a Grid](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/?envType=problem-list-v2&envId=graph)
 ![](img/3268.jpg)
+
 ## Linguagem Utilizada
 
 - Python

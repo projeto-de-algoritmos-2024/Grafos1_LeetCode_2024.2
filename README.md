@@ -14,19 +14,28 @@
 
 Este projeto consiste na resolução de questões da plataforma LeetCode variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
-| Problema | Nome                                                                                                                                           | Nível de Dificuldade |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)                 | Médio                |
-| 1337     | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph)     | Difícil              |
-| 2924     | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)                               | Médio                |
-| 3286     | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=problem-list-v2&envId=graph) | Médio                |
+| Problema | Nome                                                                                                                                                                          | Nível de Dificuldade |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 886      | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)                                             | Médio                |
+| 1337     | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph)                                 | Difícil              |
+| 2924     | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)                                                           | Médio                |
+| 3286     | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=problem-list-v2&envId=graph)                             | Médio                |
+| 1298     | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/submissions/?envType=problem-list-v2&envId=graph&status=SOLVED) | Difícil              |
 
 ## Screenshots
-
-[Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)
+### [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/?envType=problem-list-v2&envId=graph)
 ![](img/2924.png)
-[Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=problem-list-v2&envId=graph)
+### [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=problem-list-v2&envId=graph)
 ![](img/3268.jpg)
+### [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM)
+![](img/886_1.png)
+![](img/886_2.png)
+### [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph)
+![](img/1337_1.png)
+![](img/1337_2.png)
+### [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/submissions/?envType=problem-list-v2&envId=graph&status=SOLVED)
+![](img/1337_1.png)
+![](img/1337_2.png)
 
 ## Linguagem Utilizada
 

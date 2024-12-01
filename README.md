@@ -1,6 +1,7 @@
 # Grafos1-LeetCode_Problems
 
-**Número da Lista**: 1
+**Número da Lista**: 51
+
 **Conteúdo da Disciplina**: Grafos-1
 
 ## Alunos
